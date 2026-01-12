@@ -172,4 +172,4 @@ stmt.setString(1, search);
 
 ## 10. Conclusión
 
-Este ejercicio demuestra cómo una única vulnerabilidad de **Inyección SQL** puede comprometer completamente una aplicación. La prevención depende de aplicar **buenas prácticas de desarrollo seguro** desde el inicio del proyecto .
+Este ejercicio demuestra cómo una única vulnerabilidad de **Inyección SQL** puede comprometer completamente una aplicación. La prevención depende de aplicar **buenas prácticas de desarrollo seguro** desde el inicio del proyecto.
